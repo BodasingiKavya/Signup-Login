@@ -37,7 +37,7 @@ function login(userName, password) {
         return 'Wrong Password...';
     }
     else{
-        return 'User No Found , Please Signup';
+        return 'User Not Found , Please Signup';
     }
 }
 
